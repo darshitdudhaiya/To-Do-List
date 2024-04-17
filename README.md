@@ -15,7 +15,7 @@ To get started with this project, follow these steps:
 1. **Clone the Repository:** 
    ```bash
    git clone https://github.com/your-username/todo-list.git
-  ```
+     ```
     Open in Your Preferred IDE:
     Open the project folder in your preferred IDE.
 
