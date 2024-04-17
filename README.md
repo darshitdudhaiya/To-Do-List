@@ -16,28 +16,24 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/todo-list.git
      ```
-    Open in Your Preferred IDE:
+2. **Open in Your Preferred IDE:**
     Open the project folder in your preferred IDE.
 
-    Ensure Dependencies:
+3. **Ensure Dependencies:**
     Make sure you have [insert dependencies here] installed.
 
-    Run the App:
+4. **Run the App:**
     Start the application in your IDE or through the command line.
 
-Dependencies
-
-    [insert dependencies here]
-
-Contributing
+# Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
 
-    Fork the repository.
-    Create your feature branch (git checkout -b feature/YourFeature).
-    Commit your changes (git commit -am 'Add some feature').
-    Push to the branch (git push origin feature/YourFeature).
-    Create a new Pull Request.
+1. Fork the repository.
+2. Create your feature branch (```git checkout -b feature/YourFeature```).
+3. Commit your changes (```git commit -am 'Add some feature'```).
+4. Push to the branch (```git push origin feature/YourFeature```).
+5. Create a new Pull Request.
 
 Please ensure that your code follows the project's coding style and conventions.
 
